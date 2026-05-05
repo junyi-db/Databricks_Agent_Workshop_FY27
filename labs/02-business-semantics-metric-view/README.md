@@ -55,9 +55,9 @@ In a new SQL cell, run:
 
 ```sql
 SELECT business_unit,
-       avg_uptime_pct,
-       total_emissions_tco2e,
-       energy_intensity
+       MEASURE(avg_uptime_pct) AS avg_uptime_pct,
+       MEASURE(total_emissions_tco2e) AS total_emissions_tco2e,
+       MEASURE(energy_intensity) AS energy_intensity
 FROM   petronas_aiea.ops.operations_metrics
 GROUP BY business_unit
 ORDER BY avg_uptime_pct DESC;
