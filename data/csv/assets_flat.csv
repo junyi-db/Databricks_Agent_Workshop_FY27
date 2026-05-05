@@ -1,0 +1,158 @@
+asset_id,asset_name,asset_type,site_id,site_name,criticality,install_year,last_inspection_date,next_inspection_date,status,owner_team,business_unit_sheet
+AST-UP-1001,Separator 1001,Separator,UP-BKSP-A,Bokor Platform A,Critical,2013,2024-07-08,2026-07-08,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1002,Topside Module 1002,Topside Module,UP-PMOC-3,PMO Cluster 3,Critical,2016,2026-02-07,2027-02-07,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1003,Compressor 1003,Compressor,UP-PMOC-3,PMO Cluster 3,Medium,2014,2024-11-18,2025-05-17,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1004,Riser 1004,Riser,UP-CYNB-1,Carigali Onshore Block,High,2020,2024-08-03,2026-08-03,Decommissioned,Upstream Asset Integrity,Upstream
+AST-UP-1005,Topside Module 1005,Topside Module,UP-BKSP-A,Bokor Platform A,Low,2009,2024-08-19,2025-08-19,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1006,Compressor 1006,Compressor,UP-CYNB-1,Carigali Onshore Block,Low,2012,2025-06-20,2025-12-17,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1007,Topside Module 1007,Topside Module,UP-BKSP-A,Bokor Platform A,Low,2001,2024-12-05,2025-12-05,Under Maintenance,Upstream Asset Integrity,Upstream
+AST-UP-1008,Compressor 1008,Compressor,UP-CYNB-1,Carigali Onshore Block,Medium,2003,2025-08-04,2026-01-31,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1009,Topside Module 1009,Topside Module,UP-CYNB-1,Carigali Onshore Block,Medium,2001,2024-05-10,2026-05-10,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1010,Compressor 1010,Compressor,UP-BKSP-A,Bokor Platform A,Medium,2009,2026-03-31,2026-09-27,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1011,Riser 1011,Riser,UP-KSPL-1,Kasawari LNG Platform,Low,2022,2024-06-08,2024-12-05,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1012,Compressor 1012,Compressor,UP-BKSP-A,Bokor Platform A,Low,2009,2024-10-09,2025-04-07,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1013,Topside Module 1013,Topside Module,UP-BKSP-A,Bokor Platform A,Medium,2016,2024-06-03,2026-06-03,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1014,Compressor 1014,Compressor,UP-BKSP-A,Bokor Platform A,Low,2020,2026-01-20,2026-07-19,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1015,Wellhead 1015,Wellhead,UP-KSPL-1,Kasawari LNG Platform,Medium,1997,2025-01-15,2025-07-14,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1016,Wellhead 1016,Wellhead,UP-BKSP-A,Bokor Platform A,High,2012,2025-03-03,2026-03-03,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1017,Wellhead 1017,Wellhead,UP-KSPL-1,Kasawari LNG Platform,High,2009,2025-04-16,2027-04-16,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1018,Compressor 1018,Compressor,UP-CYNB-1,Carigali Onshore Block,Critical,2006,2025-01-22,2025-07-21,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1019,Subsea Tree 1019,Subsea Tree,UP-BKSP-A,Bokor Platform A,Low,2012,2026-02-27,2027-02-27,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1020,Topside Module 1020,Topside Module,UP-BKSP-A,Bokor Platform A,Medium,2021,2025-10-04,2026-10-04,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1021,Wellhead 1021,Wellhead,UP-CYNB-1,Carigali Onshore Block,High,2019,2024-06-21,2026-06-21,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1022,Separator 1022,Separator,UP-CYNB-1,Carigali Onshore Block,Low,2021,2024-08-19,2025-08-19,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1023,Riser 1023,Riser,UP-KSPL-1,Kasawari LNG Platform,Low,2018,2025-03-10,2027-03-10,Under Maintenance,Upstream Asset Integrity,Upstream
+AST-UP-1024,Subsea Tree 1024,Subsea Tree,UP-BKSP-A,Bokor Platform A,Critical,1996,2024-08-21,2025-08-21,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1025,Wellhead 1025,Wellhead,UP-PMOC-3,PMO Cluster 3,Low,2020,2024-08-29,2025-08-29,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1026,Riser 1026,Riser,UP-BKSP-A,Bokor Platform A,Low,2023,2024-09-27,2026-09-27,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1027,Separator 1027,Separator,UP-PMOC-3,PMO Cluster 3,Low,2023,2024-09-26,2026-09-26,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1028,Wellhead 1028,Wellhead,UP-PMOC-3,PMO Cluster 3,Low,2019,2024-12-30,2026-12-30,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1029,Subsea Tree 1029,Subsea Tree,UP-KSPL-1,Kasawari LNG Platform,Medium,2015,2026-02-28,2028-02-28,Under Maintenance,Upstream Asset Integrity,Upstream
+AST-UP-1030,Riser 1030,Riser,UP-CYNB-1,Carigali Onshore Block,Low,2012,2025-08-04,2027-08-04,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1031,Subsea Tree 1031,Subsea Tree,UP-BKSP-A,Bokor Platform A,Low,2009,2024-11-08,2025-11-08,In Service,Upstream Asset Integrity,Upstream
+AST-UP-1032,Topside Module 1032,Topside Module,UP-BKSP-A,Bokor Platform A,High,2012,2025-05-04,2025-10-31,In Service,Upstream Asset Integrity,Upstream
+AST-DO-1033,Heat Exchanger 1033,Heat Exchanger,DS-MLKR-2,Melaka Refinery PSR-2,Critical,2008,2025-07-08,2027-07-08,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1034,Reformer 1034,Reformer,DS-MLKR-2,Melaka Refinery PSR-2,High,2012,2025-03-02,2027-03-02,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1035,FCC Unit 1035,FCC Unit,DS-MLKR-1,Melaka Refinery PSR-1,Low,1999,2025-07-25,2026-07-25,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1036,FCC Unit 1036,FCC Unit,DS-MLKR-1,Melaka Refinery PSR-1,Critical,1995,2024-07-16,2025-01-12,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1037,CDU 1037,CDU,DS-MLKR-2,Melaka Refinery PSR-2,High,2013,2025-08-04,2026-08-04,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1038,Heat Exchanger 1038,Heat Exchanger,DS-MLKR-2,Melaka Refinery PSR-2,Low,2008,2025-12-26,2026-06-24,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1039,Reformer 1039,Reformer,DS-MLKR-1,Melaka Refinery PSR-1,Medium,2000,2025-08-04,2026-01-31,Under Maintenance,Downstream Asset Integrity,Downstream
+AST-DO-1040,FCC Unit 1040,FCC Unit,DS-MLKR-1,Melaka Refinery PSR-1,Medium,2005,2026-03-24,2026-09-20,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1041,FCC Unit 1041,FCC Unit,DS-PNGRN-1,Pengerang RAPID Refinery,Low,1999,2025-07-21,2026-01-17,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1042,Heat Exchanger 1042,Heat Exchanger,DS-PNGRN-1,Pengerang RAPID Refinery,Critical,1996,2025-09-30,2027-09-30,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1043,FCC Unit 1043,FCC Unit,DS-KRTH-1,Kerteh Petrochemical,Low,2022,2026-02-10,2027-02-10,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1044,Hydrocracker 1044,Hydrocracker,DS-MLKR-1,Melaka Refinery PSR-1,Critical,1999,2025-07-25,2027-07-25,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1045,FCC Unit 1045,FCC Unit,DS-MLKR-1,Melaka Refinery PSR-1,Critical,2009,2024-09-28,2025-03-27,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1046,Reformer 1046,Reformer,DS-KRTH-1,Kerteh Petrochemical,Medium,2008,2024-11-02,2025-05-01,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1047,FCC Unit 1047,FCC Unit,DS-MLKR-2,Melaka Refinery PSR-2,High,2015,2025-03-26,2026-03-26,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1048,Heat Exchanger 1048,Heat Exchanger,DS-KRTH-1,Kerteh Petrochemical,Low,2014,2024-09-30,2025-09-30,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1049,Heat Exchanger 1049,Heat Exchanger,DS-PNGRN-1,Pengerang RAPID Refinery,Medium,2023,2026-01-13,2027-01-13,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1050,Heat Exchanger 1050,Heat Exchanger,DS-PNGRN-1,Pengerang RAPID Refinery,High,1996,2025-12-23,2026-06-21,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1051,Heat Exchanger 1051,Heat Exchanger,DS-MLKR-1,Melaka Refinery PSR-1,Low,2019,2024-12-12,2025-12-12,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1052,Reformer 1052,Reformer,DS-MLKR-1,Melaka Refinery PSR-1,Critical,1998,2026-02-02,2027-02-02,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1053,Hydrocracker 1053,Hydrocracker,DS-MLKR-2,Melaka Refinery PSR-2,Medium,2012,2024-09-24,2025-09-24,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1054,FCC Unit 1054,FCC Unit,DS-MLKR-2,Melaka Refinery PSR-2,Medium,2017,2024-06-21,2024-12-18,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1055,Reformer 1055,Reformer,DS-PNGRN-1,Pengerang RAPID Refinery,Critical,2014,2026-02-17,2027-02-17,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1056,Hydrocracker 1056,Hydrocracker,DS-MLKR-1,Melaka Refinery PSR-1,High,2015,2024-06-18,2026-06-18,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1057,Hydrocracker 1057,Hydrocracker,DS-PNGRN-1,Pengerang RAPID Refinery,Low,2013,2025-08-02,2026-01-29,In Service,Downstream Asset Integrity,Downstream
+AST-DO-1058,Heat Exchanger 1058,Heat Exchanger,DS-KRTH-1,Kerteh Petrochemical,Low,2022,2025-07-09,2027-07-09,In Service,Downstream Asset Integrity,Downstream
+AST-GA-1059,LNG Storage Tank 1059,LNG Storage Tank,GP-BTLG-2,Bintulu LNG Complex T9,Critical,1996,2025-05-16,2026-05-16,In Service,Gas Asset Integrity,Gas
+AST-GA-1060,BOG Compressor 1060,BOG Compressor,GP-BTLG-2,Bintulu LNG Complex T9,Medium,2008,2025-04-08,2026-04-08,In Service,Gas Asset Integrity,Gas
+AST-GA-1061,Loading Arm 1061,Loading Arm,GP-BTLG-1,Bintulu LNG Complex T1,High,2009,2025-06-04,2026-06-04,Under Maintenance,Gas Asset Integrity,Gas
+AST-GA-1062,LNG Storage Tank 1062,LNG Storage Tank,GP-BTLG-1,Bintulu LNG Complex T1,Low,1999,2025-08-10,2026-08-10,In Service,Gas Asset Integrity,Gas
+AST-GA-1063,Liquefaction Unit 1063,Liquefaction Unit,GP-BTLG-2,Bintulu LNG Complex T9,Medium,2022,2024-07-06,2025-01-02,In Service,Gas Asset Integrity,Gas
+AST-GA-1064,LNG Train 1064,LNG Train,GP-BTLG-2,Bintulu LNG Complex T9,Medium,1998,2025-03-05,2027-03-05,In Service,Gas Asset Integrity,Gas
+AST-GA-1065,LNG Train 1065,LNG Train,GP-BTLG-1,Bintulu LNG Complex T1,High,1995,2024-05-24,2025-05-24,In Service,Gas Asset Integrity,Gas
+AST-GA-1066,Liquefaction Unit 1066,Liquefaction Unit,GP-BTLG-1,Bintulu LNG Complex T1,Low,1999,2025-06-18,2025-12-15,Under Maintenance,Gas Asset Integrity,Gas
+AST-GA-1067,LNG Storage Tank 1067,LNG Storage Tank,GP-BTLG-2,Bintulu LNG Complex T9,High,2017,2024-06-12,2025-06-12,In Service,Gas Asset Integrity,Gas
+AST-GA-1068,Loading Arm 1068,Loading Arm,GP-BTLG-2,Bintulu LNG Complex T9,High,1997,2025-03-12,2025-09-08,In Service,Gas Asset Integrity,Gas
+AST-GA-1069,LNG Train 1069,LNG Train,GP-BTLG-2,Bintulu LNG Complex T9,Medium,1997,2025-03-30,2027-03-30,In Service,Gas Asset Integrity,Gas
+AST-GA-1070,LNG Train 1070,LNG Train,GP-BTLG-2,Bintulu LNG Complex T9,Low,1995,2024-10-13,2025-04-11,In Service,Gas Asset Integrity,Gas
+AST-GA-1071,LNG Storage Tank 1071,LNG Storage Tank,GP-BTLG-2,Bintulu LNG Complex T9,High,2012,2025-12-06,2026-06-04,In Service,Gas Asset Integrity,Gas
+AST-GA-1072,LNG Storage Tank 1072,LNG Storage Tank,GP-BTLG-2,Bintulu LNG Complex T9,Low,2024,2026-04-02,2027-04-02,In Service,Gas Asset Integrity,Gas
+AST-GA-1073,Liquefaction Unit 1073,Liquefaction Unit,GP-BTLG-2,Bintulu LNG Complex T9,Critical,2015,2025-02-04,2025-08-03,In Service,Gas Asset Integrity,Gas
+AST-GA-1074,LNG Train 1074,LNG Train,GP-BTLG-1,Bintulu LNG Complex T1,Low,2001,2024-10-21,2025-10-21,In Service,Gas Asset Integrity,Gas
+AST-GA-1075,Liquefaction Unit 1075,Liquefaction Unit,GP-BTLG-2,Bintulu LNG Complex T9,Low,2008,2025-04-26,2027-04-26,In Service,Gas Asset Integrity,Gas
+AST-GA-1076,LNG Storage Tank 1076,LNG Storage Tank,GP-BTLG-1,Bintulu LNG Complex T1,Medium,2012,2025-04-22,2027-04-22,In Service,Gas Asset Integrity,Gas
+AST-GA-1077,BOG Compressor 1077,BOG Compressor,GP-BTLG-1,Bintulu LNG Complex T1,High,1999,2025-12-10,2027-12-10,In Service,Gas Asset Integrity,Gas
+AST-GA-1078,BOG Compressor 1078,BOG Compressor,GP-BTLG-2,Bintulu LNG Complex T9,Low,2006,2025-07-15,2026-01-11,In Service,Gas Asset Integrity,Gas
+AST-GA-1079,BOG Compressor 1079,BOG Compressor,GP-BTLG-2,Bintulu LNG Complex T9,Medium,2015,2025-04-04,2026-04-04,In Service,Gas Asset Integrity,Gas
+AST-GA-1080,Liquefaction Unit 1080,Liquefaction Unit,GP-BTLG-1,Bintulu LNG Complex T1,High,2022,2026-01-27,2026-07-26,In Service,Gas Asset Integrity,Gas
+AST-GA-1081,LNG Storage Tank 1081,LNG Storage Tank,GP-BTLG-1,Bintulu LNG Complex T1,Low,2004,2024-10-12,2026-10-12,In Service,Gas Asset Integrity,Gas
+AST-GA-1082,LNG Storage Tank 1082,LNG Storage Tank,GP-BTLG-1,Bintulu LNG Complex T1,Medium,2009,2025-03-04,2025-08-31,In Service,Gas Asset Integrity,Gas
+AST-GA-1083,LNG Storage Tank 1083,LNG Storage Tank,GP-BTLG-1,Bintulu LNG Complex T1,Low,2000,2026-03-15,2026-09-11,In Service,Gas Asset Integrity,Gas
+AST-GA-1084,LNG Train 1084,LNG Train,GP-BTLG-1,Bintulu LNG Complex T1,Critical,2023,2024-12-15,2025-12-15,In Service,Gas Asset Integrity,Gas
+AST-GA-1085,Loading Arm 1085,Loading Arm,GP-BTLG-1,Bintulu LNG Complex T1,Medium,2020,2025-03-15,2025-09-11,In Service,Gas Asset Integrity,Gas
+AST-GA-1086,Liquefaction Unit 1086,Liquefaction Unit,GP-BTLG-2,Bintulu LNG Complex T9,High,1996,2025-03-16,2027-03-16,Decommissioned,Gas Asset Integrity,Gas
+AST-TR-1087,Storage Lease 1087,Storage Lease,TR-KL-DSK,PETCO Trading Desk KL,Medium,2014,2025-08-24,2026-08-24,In Service,Trading Asset Integrity,Trading
+AST-TR-1088,Trading Workstation 1088,Trading Workstation,TR-KL-DSK,PETCO Trading Desk KL,Critical,2022,2024-07-05,2026-07-05,In Service,Trading Asset Integrity,Trading
+AST-TR-1089,Vessel Charter Slot 1089,Vessel Charter Slot,TR-LDN-DSK,PETCO Trading Desk London,Critical,2010,2024-11-14,2025-11-14,In Service,Trading Asset Integrity,Trading
+AST-TR-1090,Storage Lease 1090,Storage Lease,TR-LDN-DSK,PETCO Trading Desk London,Medium,2000,2025-07-04,2026-07-04,In Service,Trading Asset Integrity,Trading
+AST-TR-1091,Storage Lease 1091,Storage Lease,TR-LDN-DSK,PETCO Trading Desk London,Medium,2008,2026-02-20,2028-02-20,In Service,Trading Asset Integrity,Trading
+AST-TR-1092,Vessel Charter Slot 1092,Vessel Charter Slot,TR-KL-DSK,PETCO Trading Desk KL,Critical,2014,2024-07-20,2025-01-16,In Service,Trading Asset Integrity,Trading
+AST-TR-1093,Storage Lease 1093,Storage Lease,TR-KL-DSK,PETCO Trading Desk KL,Low,2002,2024-06-25,2026-06-25,In Service,Trading Asset Integrity,Trading
+AST-TR-1094,Vessel Charter Slot 1094,Vessel Charter Slot,TR-LDN-DSK,PETCO Trading Desk London,High,2020,2024-07-17,2026-07-17,In Service,Trading Asset Integrity,Trading
+AST-TR-1095,Storage Lease 1095,Storage Lease,TR-KL-DSK,PETCO Trading Desk KL,Low,2005,2024-12-09,2026-12-09,In Service,Trading Asset Integrity,Trading
+AST-TR-1096,Storage Lease 1096,Storage Lease,TR-KL-DSK,PETCO Trading Desk KL,Low,2021,2025-01-10,2027-01-10,In Service,Trading Asset Integrity,Trading
+AST-TR-1097,Trading Workstation 1097,Trading Workstation,TR-KL-DSK,PETCO Trading Desk KL,Low,2020,2026-01-14,2028-01-14,Decommissioned,Trading Asset Integrity,Trading
+AST-TR-1098,Risk Engine 1098,Risk Engine,TR-LDN-DSK,PETCO Trading Desk London,High,2003,2025-12-01,2026-05-30,In Service,Trading Asset Integrity,Trading
+AST-TR-1099,Risk Engine 1099,Risk Engine,TR-LDN-DSK,PETCO Trading Desk London,Critical,2011,2025-08-17,2026-02-13,In Service,Trading Asset Integrity,Trading
+AST-TR-1100,Trading Workstation 1100,Trading Workstation,TR-KL-DSK,PETCO Trading Desk KL,Low,2015,2024-06-09,2026-06-09,In Service,Trading Asset Integrity,Trading
+AST-TR-1101,Risk Engine 1101,Risk Engine,TR-KL-DSK,PETCO Trading Desk KL,High,2000,2024-11-02,2026-11-02,Under Maintenance,Trading Asset Integrity,Trading
+AST-TR-1102,Risk Engine 1102,Risk Engine,TR-KL-DSK,PETCO Trading Desk KL,High,1998,2026-03-01,2026-08-28,In Service,Trading Asset Integrity,Trading
+AST-TR-1103,Trading Workstation 1103,Trading Workstation,TR-KL-DSK,PETCO Trading Desk KL,Low,1995,2026-02-10,2028-02-10,In Service,Trading Asset Integrity,Trading
+AST-TR-1104,Vessel Charter Slot 1104,Vessel Charter Slot,TR-LDN-DSK,PETCO Trading Desk London,Low,1998,2026-02-28,2026-08-27,In Service,Trading Asset Integrity,Trading
+AST-TR-1105,Trading Workstation 1105,Trading Workstation,TR-LDN-DSK,PETCO Trading Desk London,High,1995,2024-10-02,2025-03-31,In Service,Trading Asset Integrity,Trading
+AST-TR-1106,Vessel Charter Slot 1106,Vessel Charter Slot,TR-LDN-DSK,PETCO Trading Desk London,High,2020,2026-01-10,2027-01-10,In Service,Trading Asset Integrity,Trading
+AST-TR-1107,Storage Lease 1107,Storage Lease,TR-LDN-DSK,PETCO Trading Desk London,Critical,2015,2025-08-09,2027-08-09,Under Maintenance,Trading Asset Integrity,Trading
+AST-TR-1108,Storage Lease 1108,Storage Lease,TR-LDN-DSK,PETCO Trading Desk London,Medium,2008,2024-09-29,2026-09-29,In Service,Trading Asset Integrity,Trading
+AST-TR-1109,Vessel Charter Slot 1109,Vessel Charter Slot,TR-LDN-DSK,PETCO Trading Desk London,Critical,2022,2024-08-21,2025-08-21,In Service,Trading Asset Integrity,Trading
+AST-TR-1110,Trading Workstation 1110,Trading Workstation,TR-KL-DSK,PETCO Trading Desk KL,Low,2001,2026-03-29,2027-03-29,In Service,Trading Asset Integrity,Trading
+AST-TR-1111,Trading Workstation 1111,Trading Workstation,TR-KL-DSK,PETCO Trading Desk KL,Low,2006,2025-07-04,2026-07-04,Under Maintenance,Trading Asset Integrity,Trading
+AST-RE-1112,POS Terminal 1112,POS Terminal,RT-KLG-CL,Klang Valley Cluster,Low,1995,2024-05-10,2024-11-06,In Service,Retail Asset Integrity,Retail
+AST-RE-1113,POS Terminal 1113,POS Terminal,RT-PNG-CL,Penang Cluster,Low,1997,2026-01-30,2026-07-29,Under Maintenance,Retail Asset Integrity,Retail
+AST-RE-1114,POS Terminal 1114,POS Terminal,RT-PNG-CL,Penang Cluster,High,2022,2026-01-17,2028-01-17,In Service,Retail Asset Integrity,Retail
+AST-RE-1115,Forecourt Pump 1115,Forecourt Pump,RT-PNG-CL,Penang Cluster,Low,2020,2025-01-13,2027-01-13,In Service,Retail Asset Integrity,Retail
+AST-RE-1116,POS Terminal 1116,POS Terminal,RT-JHR-CL,Johor Cluster,Critical,2019,2024-07-21,2025-07-21,In Service,Retail Asset Integrity,Retail
+AST-RE-1117,Underground Tank 1117,Underground Tank,RT-PNG-CL,Penang Cluster,High,2008,2025-02-10,2027-02-10,In Service,Retail Asset Integrity,Retail
+AST-RE-1118,Convenience Store Unit 1118,Convenience Store Unit,RT-PNG-CL,Penang Cluster,Critical,2000,2025-03-14,2027-03-14,In Service,Retail Asset Integrity,Retail
+AST-RE-1119,Underground Tank 1119,Underground Tank,RT-JHR-CL,Johor Cluster,Critical,2012,2025-01-27,2027-01-27,In Service,Retail Asset Integrity,Retail
+AST-RE-1120,Convenience Store Unit 1120,Convenience Store Unit,RT-PNG-CL,Penang Cluster,Medium,2020,2024-07-25,2025-01-21,In Service,Retail Asset Integrity,Retail
+AST-RE-1121,Convenience Store Unit 1121,Convenience Store Unit,RT-JHR-CL,Johor Cluster,Low,2000,2025-04-09,2026-04-09,In Service,Retail Asset Integrity,Retail
+AST-RE-1122,Forecourt Pump 1122,Forecourt Pump,RT-PNG-CL,Penang Cluster,Critical,2017,2024-08-15,2025-02-11,In Service,Retail Asset Integrity,Retail
+AST-RE-1123,Convenience Store Unit 1123,Convenience Store Unit,RT-KLG-CL,Klang Valley Cluster,High,2023,2025-04-13,2026-04-13,In Service,Retail Asset Integrity,Retail
+AST-RE-1124,Forecourt Pump 1124,Forecourt Pump,RT-PNG-CL,Penang Cluster,Medium,2004,2026-01-25,2028-01-25,In Service,Retail Asset Integrity,Retail
+AST-RE-1125,Forecourt Pump 1125,Forecourt Pump,RT-KLG-CL,Klang Valley Cluster,Medium,2020,2024-12-29,2025-12-29,In Service,Retail Asset Integrity,Retail
+AST-RE-1126,Convenience Store Unit 1126,Convenience Store Unit,RT-KLG-CL,Klang Valley Cluster,High,2010,2025-01-03,2026-01-03,In Service,Retail Asset Integrity,Retail
+AST-RE-1127,POS Terminal 1127,POS Terminal,RT-PNG-CL,Penang Cluster,Critical,2007,2024-08-07,2025-02-03,In Service,Retail Asset Integrity,Retail
+AST-RE-1128,Underground Tank 1128,Underground Tank,RT-JHR-CL,Johor Cluster,Low,2003,2026-01-11,2028-01-11,In Service,Retail Asset Integrity,Retail
+AST-RE-1129,Convenience Store Unit 1129,Convenience Store Unit,RT-KLG-CL,Klang Valley Cluster,Low,2003,2025-10-16,2026-04-14,In Service,Retail Asset Integrity,Retail
+AST-RE-1130,Forecourt Pump 1130,Forecourt Pump,RT-PNG-CL,Penang Cluster,Medium,2009,2026-02-20,2028-02-20,In Service,Retail Asset Integrity,Retail
+AST-RE-1131,POS Terminal 1131,POS Terminal,RT-JHR-CL,Johor Cluster,Medium,2003,2025-12-01,2026-05-30,In Service,Retail Asset Integrity,Retail
+AST-RE-1132,POS Terminal 1132,POS Terminal,RT-JHR-CL,Johor Cluster,High,2006,2024-12-04,2025-06-02,In Service,Retail Asset Integrity,Retail
+AST-RE-1133,Underground Tank 1133,Underground Tank,RT-KLG-CL,Klang Valley Cluster,Critical,1999,2025-04-05,2026-04-05,In Service,Retail Asset Integrity,Retail
+AST-RE-1134,Forecourt Pump 1134,Forecourt Pump,RT-JHR-CL,Johor Cluster,Medium,1997,2024-07-07,2025-07-07,In Service,Retail Asset Integrity,Retail
+AST-RE-1135,POS Terminal 1135,POS Terminal,RT-PNG-CL,Penang Cluster,High,1996,2024-12-31,2025-06-29,In Service,Retail Asset Integrity,Retail
+AST-RE-1136,Convenience Store Unit 1136,Convenience Store Unit,RT-PNG-CL,Penang Cluster,Medium,2000,2024-11-16,2025-05-15,Under Maintenance,Retail Asset Integrity,Retail
+AST-RE-1137,POS Terminal 1137,POS Terminal,RT-JHR-CL,Johor Cluster,High,1995,2026-02-15,2026-08-14,In Service,Retail Asset Integrity,Retail
+AST-RE-1138,POS Terminal 1138,POS Terminal,RT-KLG-CL,Klang Valley Cluster,Low,2017,2025-01-07,2025-07-06,In Service,Retail Asset Integrity,Retail
+AST-RE-1139,Convenience Store Unit 1139,Convenience Store Unit,RT-KLG-CL,Klang Valley Cluster,Critical,2024,2024-10-07,2025-10-07,In Service,Retail Asset Integrity,Retail
+AST-RE-1140,POS Terminal 1140,POS Terminal,RT-KLG-CL,Klang Valley Cluster,Critical,2012,2024-06-28,2026-06-28,In Service,Retail Asset Integrity,Retail
+AST-LO-1141,Pipeline Segment 1141,Pipeline Segment,LG-PSGD-T,Pasir Gudang Marine Terminal,Critical,1995,2024-07-29,2025-01-25,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1142,Pipeline Segment 1142,Pipeline Segment,LG-PSGD-T,Pasir Gudang Marine Terminal,Critical,2000,2025-02-02,2025-08-01,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1143,Tank Farm 1143,Tank Farm,LG-LBN-T,Labuan Crude Terminal,High,2021,2025-01-19,2025-07-18,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1144,Berth 1144,Berth,LG-PSGD-T,Pasir Gudang Marine Terminal,Medium,1996,2024-12-28,2025-06-26,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1145,Berth 1145,Berth,LG-PSGD-T,Pasir Gudang Marine Terminal,Critical,2010,2025-07-27,2027-07-27,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1146,Pipeline Segment 1146,Pipeline Segment,LG-LBN-T,Labuan Crude Terminal,High,2017,2025-06-19,2025-12-16,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1147,Vapour Recovery Unit 1147,Vapour Recovery Unit,LG-LBN-T,Labuan Crude Terminal,Low,2013,2024-09-24,2026-09-24,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1148,Tank Farm 1148,Tank Farm,LG-LBN-T,Labuan Crude Terminal,Critical,2014,2025-07-26,2026-07-26,Under Maintenance,Logistics Asset Integrity,Logistics
+AST-LO-1149,Berth 1149,Berth,LG-LBN-T,Labuan Crude Terminal,High,2014,2024-11-04,2025-05-03,Under Maintenance,Logistics Asset Integrity,Logistics
+AST-LO-1150,Berth 1150,Berth,LG-LBN-T,Labuan Crude Terminal,Critical,2001,2026-02-02,2026-08-01,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1151,Pipeline Segment 1151,Pipeline Segment,LG-PSGD-T,Pasir Gudang Marine Terminal,High,2019,2024-09-18,2026-09-18,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1152,Berth 1152,Berth,LG-PSGD-T,Pasir Gudang Marine Terminal,Medium,2009,2025-06-16,2025-12-13,Under Maintenance,Logistics Asset Integrity,Logistics
+AST-LO-1153,Pipeline Segment 1153,Pipeline Segment,LG-LBN-T,Labuan Crude Terminal,High,2011,2025-08-11,2026-08-11,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1154,Berth 1154,Berth,LG-LBN-T,Labuan Crude Terminal,Low,2007,2025-07-10,2027-07-10,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1155,Tank Farm 1155,Tank Farm,LG-LBN-T,Labuan Crude Terminal,Medium,2013,2024-10-01,2025-03-30,Decommissioned,Logistics Asset Integrity,Logistics
+AST-LO-1156,Tank Farm 1156,Tank Farm,LG-LBN-T,Labuan Crude Terminal,High,2012,2025-06-09,2025-12-06,In Service,Logistics Asset Integrity,Logistics
+AST-LO-1157,Pipeline Segment 1157,Pipeline Segment,LG-LBN-T,Labuan Crude Terminal,Medium,2007,2025-11-25,2027-11-25,In Service,Logistics Asset Integrity,Logistics
