@@ -19,9 +19,9 @@
 
 The template form asks for very little:
 
-- **App name**: `petronas-operations-copilot`
+- **App name**: `petronas-operations-agent-app`
 - **Description**: *PETRONAS Operations Co-Pilot — chat UI for the multi-agent supervisor*
-- **Serving endpoint** (the only required dependency): pick the supervisor endpoint from Lab 5 (its name looks like `agents_petronas_aiea_ops_petronas_operations_copilot` or similar).
+- **Serving endpoint** (the only required dependency): pick the supervisor endpoint from Lab 5 (its name looks like `mas-xxx-endpoint` or similar).
 
 Click **Create and deploy**. The app provisions in 2–3 minutes.
 
