@@ -1,4 +1,4 @@
-# Lab 6 (optional) — Deploy the Co-Pilot as a Databricks App
+# Lab 6 (optional) — Deploy the Agent as a Databricks App
 
 **Time**: 10 minutes &nbsp;•&nbsp; **Pre-requisites**: [Lab 5](../05-multi-agent-supervisor/README.md) supervisor is **ONLINE** with a serving endpoint.
 
@@ -20,7 +20,7 @@
 The template form asks for very little:
 
 - **App name**: `petronas-operations-agent-app`
-- **Description**: *PETRONAS Operations Co-Pilot — chat UI for the multi-agent supervisor*
+- **Description**: *PETRONAS Operations Agent — chat UI for the multi-agent supervisor*
 - **Serving endpoint** (the only required dependency): pick the supervisor endpoint from Lab 5 (its name looks like `mas-xxx-endpoint` or similar).
 
 Click **Create and deploy**. The app provisions in 2–3 minutes.
@@ -62,7 +62,7 @@ The app URL is workspace-scoped. Anyone with workspace access and the **Can Use*
 
 ## Wrap up
 
-You now have a fully working operations co-pilot you could share with a colleague today. 🎉
+You now have a fully working operations agent you could share with a colleague today. 🎉
 
 What you'd typically do next in a real engagement:
 
