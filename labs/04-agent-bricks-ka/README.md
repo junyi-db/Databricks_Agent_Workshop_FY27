@@ -20,9 +20,9 @@ Fill in the form:
 - **Knowledge sources** → **Add knowledge source** → **Volume**:
   - Volume path: `/Volumes/petronas_aiea/ops/raw_files/pdfs`
   - Click **Add**.
-  - **Description** (description of the unstructured documents):
+  - **Describe the Content** (description of the unstructured documents):
 ```
-This knowledge sources contains details on operational details pertaining to Petronas such as operational excellence SOP, Net Zero details, asset integrity, reporting standards, and maintenance manuals.
+Use for questions about operational policies, definitions, procedures, targets, sustainability commitments, asset integrity rules, or how to do something. Returns answers grounded in PETRONAS SOPs, the Net Zero 2050 brief, and the equipment maintenance manual.
 ```
 - **Instructions** (how the KA should answer):
 
