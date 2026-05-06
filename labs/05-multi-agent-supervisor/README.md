@@ -1,8 +1,8 @@
-# Lab 5 — Multi-Agent Supervisor: PETRONAS Operations Co-Pilot
+# Lab 5 — Multi-Agent Supervisor: PETRONAS Operations Agent
 
 **Time**: 15 minutes &nbsp;•&nbsp; **Pre-requisites**: Genie Space from [Lab 3](../03-genie-space/README.md) and KA from [Lab 4](../04-agent-bricks-ka/README.md).
 
-**Objective**: combine the **Genie Space** (live operational data) and the **Knowledge Assistant** (policies and manuals) into a single supervisor agent — `PETRONAS Operations Co-Pilot` — that routes each question to the right tool and returns one coherent answer. This is the **finale** of the workshop.
+**Objective**: combine the **Genie Space** (live operational data) and the **Knowledge Assistant** (policies and manuals) into a single supervisor agent — `PETRONAS Operations Agent` — that routes each question to the right tool and returns one coherent answer. This is the **finale** of the workshop.
 
 ## Why a supervisor
 
@@ -21,8 +21,8 @@ A **Multi-Agent Supervisor (MAS)** sits in front of both. The user asks one ques
 
 Fill in:
 
-- **Name**: `PETRONAS_Operations_CoPilot`
-- **Description**: *"PETRONAS Operations Co-Pilot. Answers questions about live operational performance and operational policy by routing to the Ops Genie and the Operations Knowledge Assistant."*
+- **Name**: `PETRONAS_Operations_Agent`
+- **Description**: *"PETRONAS Operations Agent. Answers questions about live operational performance and operational policy by routing to the Ops Genie and the Operations Knowledge Assistant."*
 
 ### Add agent 1 — Genie Space
 
@@ -43,7 +43,7 @@ Fill in:
 ### Supervisor instructions
 
 ```
-You are the PETRONAS Operations Co-Pilot.
+You are the PETRONAS Operations Agent.
 
 Routing rules:
 1. If the question is about specific live numbers (throughput, uptime, emissions today, asset counts, revenue), call ops_genie.
@@ -73,7 +73,7 @@ When the supervisor reads **ONLINE**, in the **Test** tab paste each of the belo
 
 ## 4. Note the serving endpoint name
 
-From the supervisor's page, find the **serving endpoint** — its name looks like `agents_petronas_aiea_ops_petronas_operations_copilot` (or similar). You'll point the optional Lab 6 app at it.
+From the supervisor's page, find the **serving endpoint** — its name looks like `agents_petronas_aiea_ops_petronas_operations_agent` (or similar). You'll point the optional Lab 6 app at it.
 
 ## What you just learned
 
