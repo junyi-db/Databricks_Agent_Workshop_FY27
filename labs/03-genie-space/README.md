@@ -1,6 +1,6 @@
-# Lab 3 — Build the PETRONAS Ops Genie Space
+# Lab 4 — Build the PETRONAS Ops Genie Space
 
-**Time**: 20 minutes &nbsp;•&nbsp; **Pre-requisites**: Labs 0, 1, 2 complete.
+**Time**: 20 minutes &nbsp;•&nbsp; **Pre-requisites**: Labs 0, 1, 2, 3 complete.
 
 **Objective**: stand up a Genie Space called **"PETRONAS Ops Genie"** over the operational tables and metric view, curate it with a few business rules, and see Chat vs Agent mode in action.
 
